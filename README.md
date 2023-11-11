@@ -1,4 +1,4 @@
-#SwiperJS Component
+# SwiperJS Component
 
 a simple and clean starter to start the project with Vite, Reactjs, Tailwind CSS.
 
